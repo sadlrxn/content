@@ -17,6 +17,7 @@ tags:
 
 ![A person holding a card next to a plate of cookies](https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-4.0.3&ixid=M3w5fDB8MHxzZWFyY2h8MXx8Y29va2llc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1950&q=80)
 
+Added featured image
 
 ## Modfied
 
