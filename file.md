@@ -5,6 +5,7 @@ book_title: "Hell yeah"
 book_published_at: 2025-04-07
 book_author: "John Doe"
 book_genre: "Adventure"
+featured_image: "https://picsum.photos/200/300"
 book_rating: 4
 content_type: "BOOK_REVIEW"
 tags:
