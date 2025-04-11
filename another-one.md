@@ -6,6 +6,7 @@ book_author: "John Doe"
 genre: "Adventure"
 rating: 4.4
 content_type: "PRODUCT_CONTENT"
+featured_image: "https://picsum.photos/200/300"
 tags:
   - blog
   - tutorial
