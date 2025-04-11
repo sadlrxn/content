@@ -2,7 +2,7 @@
 title: "Test Book One"
 description: "Just a test"
 book_title: "example book"
-book_published_at: "2025-04-07"
+book_published_at: 2025-04-07
 book_author: "John Doe"
 genre: "Adventure"
 rating: 4.4

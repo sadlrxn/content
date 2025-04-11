@@ -2,7 +2,7 @@
 title: "Another good book"
 description: "Just a test description"
 book_title: "Hell yeah"
-book_published_at: "2025-04-07"
+book_published_at: 2025-04-07
 book_author: "John Doe"
 book_genre: "Adventure"
 book_rating: 4
