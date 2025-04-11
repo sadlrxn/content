@@ -1,5 +1,5 @@
 ---
-title: "Test Blog"
+title: "Test Book One"
 description: "Just a test"
 book_title: "example book"
 book_published_at: "2025-04-07"

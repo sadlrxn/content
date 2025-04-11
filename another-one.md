@@ -1,8 +1,8 @@
 ---
-title: "Test Blog"
+title: "Test Product Content"
 description: "Just a test"
-book_title: "example book"
-book_published_at: "2025-04-07"
+book_title: "example book With Example"
+book_published_at: 2025-04-07
 book_author: "John Doe"
 genre: "Adventure"
 rating: 4.4
@@ -11,7 +11,6 @@ tags:
   - blog
   - tutorial
   - golang
-number: 4
 ---
 
 # Lorem Ipsum Dolor

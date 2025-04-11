@@ -11,7 +11,6 @@ tags:
   - blog
   - tutorial
   - golang
-number: 4
 ---
 
 # Lorem Ipsum Dolor
