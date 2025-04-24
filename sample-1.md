@@ -7,11 +7,6 @@ book_author: "John Doe"
 genre: "Adventure"
 rating: 4.4
 content_type: "BOOK_REVIEW"
-tags:
-  - blog
-  - tutorial
-  - golang
-number: 4
 ---
 
 # Lorem Ipsum Dolor
